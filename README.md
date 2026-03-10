@@ -4,7 +4,7 @@
 🔍 Research focus: **Knowledge Graph-enhanced Retrieval-Augmented Generation (KG-RAG)**  
 💡 Passionate about LLMs, knowledge graphs, and building scalable systems  
 🏆 National & provincial award winner in programming contests  
-🌱 Open source contributor — currently contributing to LangChain, preparing for GSoC 2025
+🌱 Open source contributor — preparing for GSoC 2026
 
 ---
 
