@@ -26,60 +26,60 @@
 
 ## 🏆 Honors & Awards
 
-**国家级**
-- 🥉 第十五届蓝桥杯全国总决赛 **Python 大学 B 组三等奖**
-- 🥉 2025 团体程序设计天梯赛 **全国团队三等奖**
+**National**
+- 🥉 Third Prize in Python University Group B at the 15th Lanqiao Cup National Finals
+- 🥉 Third Prize (National Team) at the 2025 Group Programming Ladder Tournament
 
-**省级**
-- 🥇 第十六届蓝桥杯湖北赛区 **Python 大学 B 组一等奖**
-- 🥈 第十八届中国大学生计算机设计大赛 **中南地区赛二等奖**（负责人）
+**Provincial**
+- 🥇 First Prize in Python University Group B at the 16th Lanqiao Cup Hubei Regional Contest
+- 🥈 Second Prize in the Central & Southern China Regional Contest at the 18th China Collegiate Computing Contest (Team Leader)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🎓 MoocHub — 在线学习社区（毕业设计）
-*Flutter + Go 全栈项目*  
-一个面向“中国大学 MOOC”风格的移动端学习社区，支持课程浏览、视频播放、评论互动、学习进度追踪等核心功能。项目注重工程质量和用户体验，实现了多种生产级特性。
+### 🎓 MoocHub — Online Learning Community (Graduation Project)
+*Full-stack project with Flutter + Go*  
+A mobile learning community inspired by the "Chinese University MOOC" style, supporting core features like course browsing, video playback, comment interaction, and learning progress tracking. The project emphasizes engineering quality and user experience, implementing various production-grade features.
 
-- **技术栈**：Flutter（客户端）、Go（Gin/Gorm）、MySQL + MongoDB、MinIO（对象存储）、Redis（缓存）、RabbitMQ（消息队列）
-- **核心能力**：
-  - 多端学习体验：课程/视频/文章浏览、评论、收藏、学习进度同步
-  - 推荐与运营：埋点看板、推荐系统（DIN模型）、缓存预热、热点保护
-  - 稳定性工程：限流（全局/接口）、熔断（FCM/MinIO）、重试（指数退避）、幂等请求、结构化日志与分布式追踪（X-Trace-Id）
-  - 客户端体验：离线缓存（Hive）、弱网重试、统一骨架屏/空态组件
-  - 工程协作：CI/CD 流程（GitHub Actions）、PR 规范、版本管理、Release 产物
-- **亮点**：
-  - 实现了**缓存预热**和**热点保护**，避免缓存击穿
-  - 接入**限流/熔断/重试/幂等**机制，提升系统鲁棒性
-  - 统一日志与链路追踪，方便调试与监控
-  - Flutter 端离线缓存与弱网策略，提升用户体验
+- **Tech Stack**: Flutter (client), Go (Gin/Gorm), MySQL + MongoDB, MinIO (object storage), Redis (cache), RabbitMQ (message queue)
+- **Core Capabilities**:
+  - Cross-platform learning experience: course/video/article browsing, commenting, favoriting, learning progress synchronization
+  - Recommendation & operations: event tracking dashboard, recommendation system (DIN model), cache warming, hotspot protection
+  - Stability engineering: rate limiting (global/interface), circuit breaking (FCM/MinIO), retries (exponential backoff), idempotent requests, structured logging and distributed tracing (X-Trace-Id)
+  - Client-side experience: offline caching (Hive), retry on weak network, unified skeleton screens/empty state components
+  - Engineering collaboration: CI/CD pipelines (GitHub Actions), PR conventions, version management, release artifacts
+- **Highlights**:
+  - Implemented **cache warming** and **hotspot protection** to prevent cache breakdown
+  - Integrated **rate limiting, circuit breaking, retry, and idempotency** mechanisms to enhance system robustness
+  - Unified logging and distributed tracing for easier debugging and monitoring
+  - Offline caching and weak network strategies on Flutter side to improve user experience
 
-🔗 [GitHub Repository](https://github.com/DreamZhongJu/MoocHub)（私有仓库，可联系获取访问权限）
+🔗 [GitHub Repository](https://github.com/DreamZhongJu/MoocHub) (Private repository, contact for access)
 
 ---
 
-### 🤖 AI智慧择途 —— 个性化高校选择指南针
-*省级大创项目 · 核心成员*  
-一个基于 LangChain + ChatGLM 的智能问答系统，帮助高考生个性化选择高校。
+### 🤖 AI Smart Choice — Personalized University Selection Compass
+*Provincial College Student Innovation Project · Core Member*  
+An intelligent Q&A system based on LangChain and ChatGLM, helping high school graduates make personalized university choices.
 
-- 爬取全国高校招生数据，清洗并构建知识库
-- 后端基于本地部署的 ChatGLM3-6B，通过 LangChain 集成实现自然语言问答
-- 前端采用 ChatChat 框架，提供友好的对话界面
-- 技术栈：Python, LangChain, ChatGLM, 爬虫, 知识库构建
+- Crawled nationwide university admission data, cleaned and built a knowledge base
+- Backend based on locally deployed ChatGLM3-6B, integrated with LangChain for natural language Q&A
+- Frontend using ChatChat framework for a friendly conversational interface
+- Tech stack: Python, LangChain, ChatGLM, web scraping, knowledge base construction
 
 ---
 
 ## 🌍 Open Source Contributions
 
-- 正在准备 **Google Summer of Code (GSoC) 2026** 申请
+- Preparing for **Google Summer of Code (GSoC) 2026** application
 
 ---
 
 ## 📫 Let's Connect
 
 - **GitHub**: [@DreamZhongJu](https://github.com/DreamZhongJu)  
-- **学校官网**: [Hubei University](https://www.hubu.edu.cn/) · [Soochow University](https://www.suda.edu.cn/)
+- **University Websites**: [Hubei University](https://www.hubu.edu.cn/) · [Soochow University](https://www.suda.edu.cn/)
 
 ---
 
