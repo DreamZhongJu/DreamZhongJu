@@ -1,10 +1,9 @@
 # 👋 Hi there, I'm DreamZhongJu
 
-🎓 **CS Undergraduate @ Hubei University** → Incoming Master student @ **Soochow University**  
+🎓 **CS Undergraduate @ Hubei University** → Incoming MEng student in **Computer Technology @ Soochow University**  
 🔍 Research focus: **Knowledge Graph-enhanced Retrieval-Augmented Generation (KG-RAG)**  
 💡 Passionate about LLMs, knowledge graphs, and building scalable systems  
-🏆 National & provincial award winner in programming contests  
-🌱 Open source contributor — preparing for GSoC 2026
+🏆 National-level award winner in algorithm and programming competitions  
 
 ---
 
@@ -26,58 +25,57 @@
 
 ## 🏆 Honors & Awards
 
-**National**
+- 🥇 **First Prize** — RoboCom Robot Developer Competition, Smart Sea Algorithm Tuning National Finals
 - 🥉 Third Prize in Python University Group B at the 15th Lanqiao Cup National Finals
 - 🥉 Third Prize (National Team) at the 2025 Group Programming Ladder Tournament
-
-**Provincial**
-- 🥇 First Prize in Python University Group B at the 16th Lanqiao Cup Hubei Regional Contest
-- 🥈 Second Prize in the Central & Southern China Regional Contest at the 18th China Collegiate Computing Contest (Team Leader)
 
 ---
 
 ## 📌 Featured Projects
 
+### 🚦 Traffic Sign Recognition under Adverse Weather
+*Core Member · RoboCom Robot Developer Competition, Smart Sea Algorithm Tuning National Finals · First Prize*
+
+Developed a traffic-sign classification solution for adverse weather and complex image-degradation conditions.
+
+- Built an end-to-end image-classification training workflow based on **ConvNeXt-Tiny**, covering data loading, augmentation, model training, fine-tuning, validation, and inference evaluation.
+- Used pretrained weights trained on **239,996 original images** and **2,656,000 augmented images** to improve generalization under limited competition training data.
+- Focused on robustness against background interference, motion blur, low-light conditions, rain/fog-like weather degradation, and other complex road-scene variations.
+- Performed validation-set evaluation and hyperparameter tuning, including learning-rate adjustment, training strategy refinement, and model-selection comparison.
+- Improved classification accuracy to **96.1% on the competition's non-public validation set**.
+
+---
+
 ### 🎓 MoocHub — Online Learning Community (Graduation Project)
 *Full-stack project with Flutter + Go*  
-A mobile learning community inspired by the "Chinese University MOOC" style, supporting core features like course browsing, video playback, comment interaction, and learning progress tracking. The project emphasizes engineering quality and user experience, implementing various production-grade features.
+A mobile learning community inspired by the "Chinese University MOOC" style, supporting core features like course browsing, video playback, comment interaction, and learning progress tracking.
 
-- **Tech Stack**: Flutter (client), Go (Gin/Gorm), MySQL + MongoDB, MinIO (object storage), Redis (cache), RabbitMQ (message queue)
+- **Tech Stack**: Flutter, Go (Gin/GORM), MySQL, MongoDB, MinIO, Redis, RabbitMQ
 - **Core Capabilities**:
-  - Cross-platform learning experience: course/video/article browsing, commenting, favoriting, learning progress synchronization
-  - Recommendation & operations: event tracking dashboard, recommendation system (DIN model), cache warming, hotspot protection
-  - Stability engineering: rate limiting (global/interface), circuit breaking (FCM/MinIO), retries (exponential backoff), idempotent requests, structured logging and distributed tracing (X-Trace-Id)
-  - Client-side experience: offline caching (Hive), retry on weak network, unified skeleton screens/empty state components
-  - Engineering collaboration: CI/CD pipelines (GitHub Actions), PR conventions, version management, release artifacts
-- **Highlights**:
-  - Implemented **cache warming** and **hotspot protection** to prevent cache breakdown
-  - Integrated **rate limiting, circuit breaking, retry, and idempotency** mechanisms to enhance system robustness
-  - Unified logging and distributed tracing for easier debugging and monitoring
-  - Offline caching and weak network strategies on Flutter side to improve user experience
+  - Course/video/article browsing, commenting, favoriting, and learning-progress synchronization
+  - Event tracking, recommendation system (DIN model), cache warming, and hotspot protection
+  - Rate limiting, circuit breaking, retries, idempotent requests, structured logging, and distributed tracing
+  - Offline caching and weak-network strategies on the Flutter client
+  - CI/CD pipelines with GitHub Actions, PR conventions, version management, and release artifacts
 
-🔗 [GitHub Repository](https://github.com/DreamZhongJu/MoocHub) (Private repository, contact for access)
+🔗 [GitHub Repository](https://github.com/DreamZhongJu/MoocHub-public)
 
 ---
 
 ### 🤖 AI Smart Choice — Personalized University Selection Compass
 *Provincial College Student Innovation Project · Core Member*  
+
 An intelligent Q&A system based on LangChain and ChatGLM, helping high school graduates make personalized university choices.
 
-- Crawled nationwide university admission data, cleaned and built a knowledge base
-- Backend based on locally deployed ChatGLM3-6B, integrated with LangChain for natural language Q&A
-- Frontend using ChatChat framework for a friendly conversational interface
-- Tech stack: Python, LangChain, ChatGLM, web scraping, knowledge base construction
-
----
-
-## 🌍 Open Source Contributions
-
-- Preparing for **Google Summer of Code (GSoC) 2026** application
+- Crawled nationwide university admission data, cleaned and built a knowledge base.
+- Built a local knowledge-base Q&A workflow using ChatGLM3-6B, LangChain, and ChatChat.
+- Tech stack: Python, LangChain, ChatGLM, web scraping, and knowledge-base construction.
 
 ---
 
 ## 📫 Let's Connect
 
+- **Email**: zy18145326@163.com  
 - **GitHub**: [@DreamZhongJu](https://github.com/DreamZhongJu)  
 - **University Websites**: [Hubei University](https://www.hubu.edu.cn/) · [Soochow University](https://www.suda.edu.cn/)
 
