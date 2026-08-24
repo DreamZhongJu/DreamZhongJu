@@ -1,9 +1,9 @@
 # 👋 Hi there, I'm DreamZhongJu
 
-🎓 **CS Undergraduate @ Hubei University** → Incoming MEng student in **Computer Technology @ Soochow University**  
+🎓 **CS undergrad → MEng student**, Computer Technology  
 🔍 Research focus: **Knowledge Graph-enhanced Retrieval-Augmented Generation (KG-RAG)**  
 💡 Passionate about LLMs, knowledge graphs, and building scalable systems  
-🏆 National-level award winner in algorithm and programming competitions  
+🏆 Multiple national-level awards in algorithm & robotics competitions  
 
 ---
 
@@ -23,49 +23,48 @@
 
 ---
 
-## 🏆 Honors & Awards
+## 🏆 Highlights
 
-- 🥇 **First Prize** — RoboCom Robot Developer Competition, Smart Sea Algorithm Tuning National Finals
-- 🥉 Third Prize in Python University Group B at the 15th Lanqiao Cup National Finals
-- 🥉 Third Prize (National Team) at the 2025 Group Programming Ladder Tournament
+- 🥇 First Prize — national finals of a robot-developer algorithm competition
+- 🥉 National finalist awards in two major programming contests
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🚦 Traffic Sign Recognition under Adverse Weather
-*Core Member · RoboCom Robot Developer Competition, Smart Sea Algorithm Tuning National Finals · First Prize*
+*Core developer · National algorithm competition · 🥇 First Prize*
 
 Developed a traffic-sign classification solution for adverse weather and complex image-degradation conditions.
 
 - Built an end-to-end image-classification training workflow based on **ConvNeXt-Tiny**, covering data loading, augmentation, model training, fine-tuning, validation, and inference evaluation.
 - Used pretrained weights trained on **239,996 original images** and **2,656,000 augmented images** to improve generalization under limited competition training data.
 - Focused on robustness against background interference, motion blur, low-light conditions, rain/fog-like weather degradation, and other complex road-scene variations.
-- Performed validation-set evaluation and hyperparameter tuning, including learning-rate adjustment, training strategy refinement, and model-selection comparison.
+- Performed validation-set evaluation and hyperparameter tuning, including learning-rate adjustment and model-selection comparison.
 - Improved classification accuracy to **96.1% on the competition's non-public validation set**.
 
 ---
 
-### 🎓 MoocHub — Online Learning Community (Graduation Project)
-*Full-stack project with Flutter + Go*  
-A mobile learning community inspired by the "Chinese University MOOC" style, supporting core features like course browsing, video playback, comment interaction, and learning progress tracking.
+### 🎓 MoocHub — Online Learning Community
+*Full-stack project with Flutter + Go*
+
+A mobile learning community supporting course browsing, video playback, comment interaction, and learning progress tracking.
 
 - **Tech Stack**: Flutter, Go (Gin/GORM), MySQL, MongoDB, MinIO, Redis, RabbitMQ
-- **Core Capabilities**:
-  - Course/video/article browsing, commenting, favoriting, and learning-progress synchronization
-  - Event tracking, recommendation system (DIN model), cache warming, and hotspot protection
-  - Rate limiting, circuit breaking, retries, idempotent requests, structured logging, and distributed tracing
-  - Offline caching and weak-network strategies on the Flutter client
-  - CI/CD pipelines with GitHub Actions, PR conventions, version management, and release artifacts
+- Course/video/article browsing, commenting, favoriting, learning-progress sync
+- Event tracking, recommendation system (DIN model), cache warming, hotspot protection
+- Rate limiting, circuit breaking, retries, idempotent requests, structured logging, distributed tracing
+- Offline caching and weak-network strategies on the Flutter client
+- CI/CD pipelines with GitHub Actions, PR conventions, version management, release artifacts
 
 🔗 [GitHub Repository](https://github.com/DreamZhongJu/MoocHub-public)
 
 ---
 
 ### 🤖 AI Smart Choice — Personalized University Selection Compass
-*Provincial College Student Innovation Project · Core Member*  
+*Core developer · LangChain + ChatGLM RAG system*
 
-An intelligent Q&A system based on LangChain and ChatGLM, helping high school graduates make personalized university choices.
+An intelligent Q&A system helping high school graduates make personalized university choices.
 
 - Crawled nationwide university admission data, cleaned and built a knowledge base.
 - Built a local knowledge-base Q&A workflow using ChatGLM3-6B, LangChain, and ChatChat.
@@ -75,9 +74,8 @@ An intelligent Q&A system based on LangChain and ChatGLM, helping high school gr
 
 ## 📫 Let's Connect
 
-- **Email**: zy18145326@163.com  
-- **GitHub**: [@DreamZhongJu](https://github.com/DreamZhongJu)  
-- **University Websites**: [Hubei University](https://www.hubu.edu.cn/) · [Soochow University](https://www.suda.edu.cn/)
+- GitHub: [@DreamZhongJu](https://github.com/DreamZhongJu)
+- Discussion & collaboration: open an issue in any of my repos
 
 ---
 
